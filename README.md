@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:1e293b,100:a78bfa&height=200&section=header&text=Bhanu's%20Sanctuary&fontSize=65&fontColor=ffffff&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:a78bfa&height=200&section=header&text=Bhanu's%20Sanctuary&fontSize=65&fontColor=ffffff&fontAlignY=40" width="100%"/>
 </div>
 
 <div align="center">
@@ -69,5 +69,5 @@ Hi! I'm an engineer who finds clarity in the quiet of the night. I thrive on bui
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:a78bfa,100:1e293b&height=80&section=footer&text=Dream%20On&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:1e293b&height=80&section=footer&text=Dream%20On&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>

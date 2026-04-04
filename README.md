@@ -17,22 +17,6 @@ Exploring game development and interactive experiences
 Interested in AI-driven solutions and modern architectures  
 I enjoy solving complex algorithmic challenges when the world is asleep.
 
-<br />
-
-### 🔗 Ping Me
-<p align="left">
-  <a href="https://github.com/Bhanuch2006">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="45" />
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="45" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="45" />
-  </a>
-</p>
-
-<br clear="both" />
 
 ---
 
@@ -40,12 +24,7 @@ I enjoy solving complex algorithmic challenges when the world is asleep.
 
 *A carefully curated stack designed for resilience and performance in the silent hours:*
 
-<div align="center">
-  <b>Java • Python • C++ • JavaScript</b><br/>
-  <b>React • Next.js • Node.js • Express</b><br/>
-  <b>Git • GitHub • Docker • Postman • VS Code</b><br/>
-  <b>Unity • Blender • C#</b>
-</div>
+
 
 <br/>
 
@@ -71,3 +50,22 @@ I enjoy solving complex algorithmic challenges when the world is asleep.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhanuch2006&color=007ACC&style=flat-square&label=NIGHT+PING" alt="Profile Views" />
 </div>
+
+<br />
+
+---
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/Bhanuch2006">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="45" />
+  </a>
+</p>

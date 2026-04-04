@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:a78bfa&height=200&section=header&text=Bhanu's%20Sanctuary&fontSize=65&fontColor=ffffff&fontAlignY=40" width="100%"/>
-</div>
+<h1 align="center">Hi 👋, I'm Bhanu</h1>
+<h3 align="center">Second Year Student • Full-time Learner • Passionate Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&pause=1200&color=8A9A5B&center=true&vCenter=true&width=600&lines=Building+with+Curiosity;Learning+Every+Day;Creating+with+Purpose" />
+</p>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" />
@@ -8,16 +11,10 @@
 
 <br/>
 
-## 🌌 Silent Architect & Deep Thinker
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=a78bfa&vCenter=true&width=500&lines=Building+Scalable+Silent+Systems;Crafting+Deep+Solutions+under+the+Stars;Solving+Complex+Algorithms+in+the+Quiet;Dreaming+in+Code+and+Stars+%F0%9F%8C%8C" />
-</p>
-
 Hi! I'm an engineer who finds clarity in the quiet of the night. I thrive on building scalable, elegant systems and diving deep into complex algorithmic challenges when the world is asleep.
 
 - ⚡ **Focusing on:** High-performance Backend Systems & Distributed Physics Engines
-- 🌙 **Fuel of choice:** Deep Lavender Tea & Persistent Curiosity ☕
+- 🌙 **Fuel of choice:** Deep Indigo Tea & Persistent Curiosity ☕
 - 🚀 **Currently exploring:** Advanced State Management & AI-driven Orchestration
 
 <br />
@@ -53,21 +50,8 @@ Hi! I'm an engineer who finds clarity in the quiet of the night. I thrive on bui
 
 <br />
 
----
-
-## 📈 Nightly Rhythms
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuch2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=C9D1D9" alt="Bhanu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuch2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhanuch2006&color=a78bfa&style=flat-square&label=NIGHT+PING" alt="Profile Views" />
-</div>
-
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:1e293b&height=80&section=footer&text=Dream%20On&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=Bhanuch2006&color=312e81&style=flat-square&label=NIGHT+PING" alt="Profile Views" />
 </div>

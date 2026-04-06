@@ -71,11 +71,11 @@ I enjoy solving complex algorithmic challenges when the world is asleep.
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="45" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/bhanu-lh-495991312/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="45" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="45" />
+  <a href="https://x.com/BhanuChekuri">
+    <img src="https://skillicons.dev/icons?i=&theme=dark" alt="Twitter" height="45" />
   </a>
 </p>

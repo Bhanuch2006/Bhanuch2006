@@ -76,6 +76,6 @@ I enjoy solving complex algorithmic challenges when the world is asleep.
   </a>
   &nbsp;
   <a href="https://x.com/BhanuChekuri">
-    <img src="https://skillicons.dev/icons?i=&theme=dark" alt="Twitter" height="45" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="45" />
   </a>
 </p>
